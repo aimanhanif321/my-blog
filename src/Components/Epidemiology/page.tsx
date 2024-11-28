@@ -12,7 +12,7 @@ Recent years have seen significant outbreaks in India, Southeast Asia, the Carib
     </div>
    <div>
     
-      <img src="/images/map.png" alt="" className='w-[80vw] h-[60vh] ml-[200px]'/>
+      <img src="/images/map.png" alt="" className='w-[80vw] h-[60vh] lg:ml-[200px]'/>
     </div>
     </div>
   )

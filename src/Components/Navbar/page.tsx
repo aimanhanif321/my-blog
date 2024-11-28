@@ -1,8 +1,8 @@
 'use client'
 import React from 'react'
 import Link from 'next/link'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { FaBars } from 'react-icons/fa'
+// import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+// import { FaBars } from 'react-icons/fa'
 import { useState } from "react";
 
 
@@ -11,13 +11,12 @@ const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <nav className="sticky top-0 z-50 bg-yellow-200 h-[90px] w-full text-center">
+    <nav className="sticky top-0 z-50 bg-yellow-200 h-[90px]  text-center">
       <div className="max-w-8xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between  h-16 pt-2">
           {/* Logo */}
-          <div className='flex mr-[100px] items-center '>
-           <img src="/images/log.png" alt="logo" className='lg: h-[90px] mt-3' />
-           <span className='lg:text-2xl text-blue-800 font-semibold text-center'>CHICKHEN GUNIYA VIRUS</span>
+          <div className='flex mr-[10px] items-center '>
+           <img src="/images/log.png" alt="logo" className='h-[60px] w-[60px] lg:h-[90px] mt-3' />
         </div>
          
 

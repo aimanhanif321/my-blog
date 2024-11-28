@@ -2,9 +2,9 @@ import React from "react";
 
 const Symptoms = () => {
   return (
-    <div id="symptoms" className=" mt-16 h-auto w-full mb-16">
+    <div id="symptoms" className=" mt-16 h-auto w-full mb-16 p-10">
       <div>
-        <h1 className="text-center p-5 m-2 bg-blue-900 font-serif font-bold text-2xl md:text-4xl lg:text-6xl text-white items-center">
+        <h1 className="text-center p-5 m-2 bg-blue-900 font-serif font-bold text-2xl md:text-3xl lg:text-6xl text-white">
           SYMPTOMS OF CHIKENGUNYA
         </h1>
         <p className="text-center  leading-2 font-serif text-2xl md:text-3xl ">

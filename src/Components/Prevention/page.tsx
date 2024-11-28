@@ -3,16 +3,16 @@ import React from "react";
 const Prevention = () => {
   return (
     <div id="prevention" className="mt-20 lg:mt-32 mb-16 w-full ">
-      <h1 className=" text-center p-5 m-2  font-serif font-bold text-2xl md:text-4xl lg:text-6xl text-blue-800 items-center">
+      <h1 className=" text-center p-5 m-2  font-serif font-bold text-2xl md:text-4xl lg:text-5xl text-blue-800 items-center">
         TREATMENT & PREVENTION
       </h1>
       <div className="flex flex-row ">
         <img
           src="/images/doctor.png"
           alt=""
-          className="md:h-[500px] md:w-[400px] lg:h-[900px] lg:w-[700px] hidden md:block"
+          className="h-auto md:h-[500px] md:w-[400px] lg:h-[900px] lg:w-[700px] hidden md:block"
         />
-        <div className="mt-14 ml-16">
+        <div className="mt-14 ml-8">
           <div className="p-5">
             <img src="/images/medicine.png" alt="" className="h-[100px]" />
             <h1 className="font-semibold p-1 text-[19px]">Pain relievers</h1>
