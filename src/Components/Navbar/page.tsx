@@ -52,7 +52,7 @@ const Navbar = () => {
             </Link>
             <Link href="#about" className="hover:text-[20px] font-bold text-[18px]">ABOUT
             </Link>
-            <Link href="#symptoms" className="hover:text-[25px] font-bold text-[22px]">SYMPTOMS
+            <Link href="#symptoms" className="hover:text-[20px] font-bold text-[18px]">SYMPTOMS
             </Link>
             <Link href="#prevention"
               className="hover:text-[20px] font-bold text-[18px]">PREVENTION

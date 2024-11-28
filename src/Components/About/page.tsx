@@ -10,8 +10,8 @@ const About = () => {
         <img src="/images/about.png" alt="about" className='h-[300px] lg:h-[600px] ' />
         </div>
         <div className='w-full md:w-[60vw] lg:w-[70vw] pl-10 '>
-            <h1 className=' text-center p-5 m-9 bg-blue-900 font-serif font-bold text-2xl md:text-4xl lg:text-6xl text-white items-center'>ABOUT</h1>
-<h1 className='font-serif font-bold text-2xl md:text-4xl lg:text-6xl text-blue-900'>
+            <h1 className=' text-center p-5 m-9 bg-blue-900 font-serif font-bold text-2xl md:text-4xl lg:text-5xl text-white items-center'>ABOUT</h1>
+<h1 className='font-serif font-bold text-2xl md:text-4xl lg:text-5xl text-blue-900'>
 What is Chikungunya?</h1>
         <p className='pt-6 leading-2 font-sans text-2xl md:text-3xl '>Chikungunya is a viral disease caused by the Chikungunya virus (CHIKV), which is transmitted to humans through the bites of infected mosquitoes, primarily Aedes aegypti and Aedes albopictus. These mosquitoes are the same vectors responsible for spreading dengue and Zika viruses.</p>
         <div className='pt-10 py-8'>
