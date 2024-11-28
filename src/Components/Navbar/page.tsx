@@ -47,21 +47,21 @@ const Navbar = () => {
 
           {/* Links (hidden on small screens) */}
           <div className="hidden md:flex md:gap-6 space-x-4 text-blue-800">
-            <Link   href="#home"  className="hover:text-[25px] font-bold text-[22px]">HOME
+            <Link   href="#home"  className="hover:text-[20px] font-bold text-[18pxpx]">HOME
              
             </Link>
-            <Link href="#about" className="hover:text-[25px] font-bold text-[22px]">ABOUT
+            <Link href="#about" className="hover:text-[20px] font-bold text-[18px]">ABOUT
             </Link>
             <Link href="#symptoms" className="hover:text-[25px] font-bold text-[22px]">SYMPTOMS
             </Link>
             <Link href="#prevention"
-              className="hover:text-[25px] font-bold text-[22px]">PREVENTION
+              className="hover:text-[20px] font-bold text-[18px]">PREVENTION
             </Link>
             <Link href="#epi"
-              className="hover:text-[25px] font-bold text-[22px]">EPIDEMIOLOGY
+              className="hover:text-[20px] font-bold text-[18px]">EPIDEMIOLOGY
             </Link>
             <Link href="#articals"
-              className="hover:text-[25px] font-bold text-[22px]">ARTICALS
+              className="hover:text-[20px] font-bold text-[18px]">ARTICALS
             </Link>
           </div>
         </div>
