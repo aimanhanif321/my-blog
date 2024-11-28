@@ -47,7 +47,7 @@ const Navbar = () => {
 
           {/* Links (hidden on small screens) */}
           <div className="hidden md:flex md:gap-6 space-x-4 text-blue-800">
-            <Link   href="#home"  className="hover:text-[20px] font-bold text-[18pxpx]">HOME
+            <Link   href="#home"  className="hover:text-[20px] font-bold text-[18px]">HOME
              
             </Link>
             <Link href="#about" className="hover:text-[20px] font-bold text-[18px]">ABOUT
